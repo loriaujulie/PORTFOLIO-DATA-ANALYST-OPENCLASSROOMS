@@ -6,8 +6,8 @@ L’objectif de ce projet était de construire une base de données relationnell
 
 Ce travail s’inscrit dans le cadre du projet **DATAImmo**, mené pour l’entreprise fictive **Laplace Immo**, un réseau national d’agences immobilières souhaitant améliorer la prédiction des prix de vente et accompagner ses clients grâce à une base de données fiable et normalisée.
 
-<img width="951" height="529" alt="p5 Capture d’écran 2026-06-22 120328" src="https://github.com/user-attachments/assets/f425c9fb-51b4-4d3e-9676-e1e1fe537d34" />
 <img width="955" height="535" alt="p5 Capture d’écran 2026-06-22 120136" src="https://github.com/user-attachments/assets/40f141a9-2caf-445c-8005-10fe0916eec1" />
+<img width="951" height="529" alt="p5 Capture d’écran 2026-06-22 120328" src="https://github.com/user-attachments/assets/f425c9fb-51b4-4d3e-9676-e1e1fe537d34" />
 <img width="948" height="530" alt="p5 Capture d’écran 2026-06-22 120417" src="https://github.com/user-attachments/assets/6959cbad-03b8-4489-a5d9-eae854404f0c" />
 
 ## 📂 Données utilisées  
