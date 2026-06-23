@@ -53,7 +53,7 @@ ACP, clustering, scoring pays, recommandations stratégiques pour l’export.
 Clustering + régression logistique pour prédire la conformité des billets.
 
 ### **P13 — Portfolio professionnel**
-Structuration, documentation, storytelling, posture consultant.
+Structuration, documentation, storytelling, posture de consultant.
 
 ---
 
