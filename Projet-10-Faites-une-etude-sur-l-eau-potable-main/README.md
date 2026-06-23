@@ -9,9 +9,11 @@ Concevoir un tableau de bord Power BI permettant d’identifier les pays priorit
 
 L’enjeu principal : fournir une **vision claire, fiable et actionnable** de la situation mondiale de l’accès à l’eau, en croisant plusieurs sources internationales.
 
----
+<img width="1413" height="794" alt="p10 Capture d’écran 2026-06-22 121500" src="https://github.com/user-attachments/assets/a2ac047d-00f0-493f-990b-324f167bb483" />
+<img width="1415" height="796" alt="p10 Capture d’écran 2026-06-22 121528" src="https://github.com/user-attachments/assets/21087724-8501-410c-b786-76eeda0f2015" />
+<img width="1411" height="793" alt="p10 Capture d’écran 2026-06-22 121549" src="https://github.com/user-attachments/assets/655607df-12a3-498c-8e86-03af9832709a" />
 
-## 🌍 Sources de données  
+## 📂 Données utilisées
 Données issues de plusieurs organismes internationaux :
 
 - **OMS** : mortalité liée à l’eau insalubre, accès à l’eau potable (urbain/rural), installations basiques  
@@ -21,8 +23,6 @@ Données issues de plusieurs organismes internationaux :
 - **Indices de stabilité politique**
 
 Un travail important d’harmonisation a été nécessaire pour **aligner les noms de pays**, les années et les unités.
-
----
 
 ## 🛠️ Préparation & Modélisation  
 ### Étapes clés du traitement :
@@ -38,8 +38,6 @@ Un travail important d’harmonisation a été nécessaire pour **aligner les no
 - Filtres croisés, navigation fluide, bouton de réinitialisation  
 - Info-bulles enrichies, titres explicites, contrastes accessibles  
 - Limitation du nombre de visuels pour améliorer la vitesse d’affichage
-
----
 
 ## 📊 Contenu du Dashboard  
 Le tableau de bord est structuré en **3 vues complémentaires** :
@@ -60,17 +58,3 @@ Le tableau de bord est structuré en **3 vues complémentaires** :
 - Accès à l’eau en zone urbaine / rurale  
 - Évolution de la population  
 - Analyse détaillée par pays sélectionné
-
----
-
-## 🧭 Résultats & Apports  
-- Identification des zones prioritaires selon les 3 domaines  
-- Mise en évidence des pays cumulant **faible accès à l’eau + forte mortalité + instabilité politique**  
-- Vision claire des écarts entre zones urbaines et rurales  
-- Outil interactif permettant une **prise de décision rapide et argumentée**
-
----
-
-## 📌 Conclusion  
-Ce projet fournit un tableau de bord complet, accessible et robuste, permettant d’appuyer les décisions stratégiques liées à l’accès à l’eau potable.  
-La modélisation, la qualité des données et l’optimisation du modèle Power BI garantissent un outil fiable, évolutif et adapté aux besoins opérationnels.
