@@ -7,11 +7,9 @@ L’analyse porte sur la sous‑nutrition, la disponibilité alimentaire, l’ai
 
 Ce projet m’a permis de manipuler plusieurs sources de données, de les nettoyer, de les harmoniser, puis de produire des indicateurs clés et des visualisations pertinentes.
 
-
-<img width="1118" height="655" alt="P3 Capture d’écran 2026-06-22 115628" src="https://github.com/user-attachments/assets/6091c29d-3c7b-47a6-886e-56f432a9c620" />
-<img width="918" height="562" alt="P3 Capture d’écran 2026-06-22 115606" src="https://github.com/user-attachments/assets/a1c2fcbe-edb1-4b2e-a9e4-ab8ec9b03fee" />
-<img width="1116" height="646" alt="P3 Capture d’écran 2026-06-22 115701" src="https://github.com/user-attachments/assets/60d80222-c6b4-4a47-981b-065ba41376e2" />
-
+<img width="1276" height="715" alt="p4 Capture d’écran 2026-06-22 115829" src="https://github.com/user-attachments/assets/bd204658-4d5d-407b-8060-8832940ded99" />
+<img width="811" height="853" alt="p4 Capture d’écran 2026-06-22 120037" src="https://github.com/user-attachments/assets/09709eba-7fc5-4deb-a7c1-2d065a476282" />
+<img width="1277" height="718" alt="P4 Capture d’écran 2026-06-22 115951" src="https://github.com/user-attachments/assets/e1d1d8c7-b06e-4859-b1d2-9156f494a7d6" />
 
 ## 📂 Données utilisées  
 Les datasets fournis par la FAO couvrent les thématiques suivantes :
