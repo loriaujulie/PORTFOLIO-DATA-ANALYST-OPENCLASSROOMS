@@ -53,7 +53,7 @@ ACP, clustering, scoring pays, recommandations stratégiques pour l’export.
 Clustering + régression logistique pour prédire la conformité des billets.
 
 ### **P13 — Portfolio professionnel** 
-[https://julieloriau.wixsite.com/j-loriau](url)
+** [https://julieloriau.wixsite.com/j-loriau](url) **
 Structuration, documentation, storytelling, posture de consultant.
 
 ### **Stage en milieu professionnel**
