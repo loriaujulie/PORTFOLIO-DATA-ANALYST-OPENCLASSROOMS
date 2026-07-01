@@ -49,7 +49,7 @@ Dashboard complet pour ONG : stabilité politique, mortalité WASH, accès eau p
 ### **P11 — Étude de marché internationale (Python)**
 ACP, clustering, scoring pays, recommandations stratégiques pour l’export.
 
-[### **P12 — Détection de faux billets (ML)**](url)
+### **P12 — Détection de faux billets (ML)**
 Clustering + régression logistique pour prédire la conformité des billets.
 
 ### **P13 — Portfolio professionnel** 
